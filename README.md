@@ -9,8 +9,8 @@ Parte del 'Diplomado de Análisis Computacional Estadístico de Datos con Python
 - [x] *Bloque A.* Aprendizaje supervisado: regresión.
 - [x] *Bloque B.* Aprendizaje supervisado: clasificación.
 ### Deep Learning
-- [ ] *Bloque A.* Desmitificando el Deep Learning: mi primer red neuronal.
-- [ ] *Bloque B.* RNA como aproximadores universales.
+- [x] *Bloque A.* Desmitificando el Deep Learning: mi primer red neuronal.
+- [x] *Bloque B.* RNA como aproximadores universales.
 ### Otras aplicaciones
 - [ ] *Bloque A.* Series temporales.
 - [ ] *Bloque B.* Reducción de la dimensionalidad.
