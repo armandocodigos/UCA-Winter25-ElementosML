@@ -12,12 +12,12 @@ Parte del 'Diplomado de Análisis Computacional Estadístico de Datos con Python
 - [x] *Bloque A.* Desmitificando el Deep Learning: mi primer red neuronal.
 - [x] *Bloque B.* RNA como aproximadores universales.
 ### Otras aplicaciones
-- [ ] *Bloque A.* Series temporales.
-- [ ] *Bloque B.* Reducción de la dimensionalidad.
-- [ ] *Bloque C.* Aprendizaje no supervisado: clusterización.
+- [x] *Bloque A.* Series temporales.
+- [x] *Bloque B.* Reducción de la dimensionalidad.
+- [x] *Bloque C.* Aprendizaje no supervisado: clusterización.
 ### Cierre del módulo
-- [ ] *Bloque A.* Métodos de ensamble.
-- [ ] *Bloque B.* Tópicos avanzados.
+- [x] *Bloque A.* Métodos de ensamble.
+- [x] *Bloque B.* Tópicos avanzados.
 - **Actividad Evaluada.**
 
 ## Correos de contacto
